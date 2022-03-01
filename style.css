@@ -1,0 +1,113 @@
+.image{
+width: 50px;
+height: 50px;
+}
+
+.mycards{
+    background: white;
+    padding-top:40px;
+}
+ 
+.card1{
+    padding-left: 60px;
+ 
+}
+ 
+.card5{
+    padding-left: 90px;
+}
+ 
+.card2{
+    padding-bottom: 30px;
+padding-left: 38px;
+}
+ 
+.card1 .card{
+   height: 60vh;
+   width: 19rem;
+ 
+}
+ 
+.card5 .card{
+    height: 80vh;
+    width: 15rem;
+}
+
+.card2 .card{
+    width: 43rem;
+    
+}
+
+.card3 .card{
+
+}
+
+.girl{
+    border-radius: 70%;
+    height: 90px;
+    width: 90px;
+    display: block;
+    margin: auto;
+margin-top: 20px;
+margin-bottom: 20px;
+
+}
+.box{
+    border: 1px solid gray;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.abc{
+    padding: 0;
+}
+.girl2{
+    height: 230px;
+    width: 180px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+
+}
+.card{
+    text-align: center;
+}
+.box2{
+    border: 1px solid gray;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+
+}
+.girl3{
+    border-radius: 70%;
+        height: 90px;
+        width: 90px;
+        display: block;
+        margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.box3 {
+    border: 1px solid gray;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.card4{
+    margin-left: 4rem;
+}
+.sticker{
+    transform: translateX(-2rem) translateY(-6rem);
+    
+}
